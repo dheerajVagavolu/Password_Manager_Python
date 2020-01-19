@@ -1,4 +1,4 @@
-from database import *
+from password import *
 from user import *
 
 
